@@ -1,2 +1,2 @@
 # file_service
-Just file upload and deleting on go
+file store. upload and deleting
